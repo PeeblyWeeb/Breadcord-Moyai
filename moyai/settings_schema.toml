@@ -1,5 +1,0 @@
-# List of user id's the module should react moyai to
-users = [904032786854346795, 444800636681453568, 371382454021390337]
-
-# Should the module be enabled
-enabled = true
